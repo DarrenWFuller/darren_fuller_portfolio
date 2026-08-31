@@ -1,4 +1,4 @@
-# SQL Database Build & Queries
+# SQL Database Build
 
 **Tools:** SQL  
 **Skills:** DDL, DML, joins, views, indexing, sequences, synonyms
@@ -16,5 +16,4 @@ This project demonstrates my ability to work with SQL beyond basic SELECT statem
 - Created a `SYNONYM` for simplified table access  
 
 ## 📂 Files Included
-- `database_build.sql` – full SQL script with all commands
-
+- `DatabaseBuild.sql` – Full SQL script including table creation, inserts, constraints, views, sequences, indexes, and synonym
