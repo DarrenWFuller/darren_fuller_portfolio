@@ -8,12 +8,9 @@ This project demonstrates my ability to clean raw data, organize it into a usabl
 
 ## 🔧 What I Did
 - Cleaned and standardized the raw dataset  
-- Removed duplicates and corrected formatting issues  
-- Used formulas such as XLOOKUP, IF statements, and text/date functions  
+- Removed duplicates and corrected formatting issues    
 - Built pivot tables summarizing sales by category, date, and product  
-- Created a small dashboard with charts to visualize trends  
+- Created a dashboard with charts to visualize trends  
 
 ## 📂 Files Included
-- `sales_dashboard.xlsx` – cleaned data, pivot tables, and dashboard  
-- Screenshots (optional)
-
+- `ExcelDashboard.xlsx` – Excel dashboard with cleaned data, pivot tables, and visuals
