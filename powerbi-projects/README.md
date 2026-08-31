@@ -14,7 +14,6 @@ This folder contains two PDF exports of Power BI dashboards I created from clean
 - Exported dashboards to PDF for easy viewing  
 
 ## 📂 Files Included
-- `dashboard1.pdf`  
-- `dashboard2.pdf`  
-- (Optional) `.pbix` file if you want to include it
+- `PowerBIDashboard.pdf` – Exported dashboard visual
+- `PowerBIReport.pdf` – Additional Power BI report visual
 
