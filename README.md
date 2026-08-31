@@ -14,25 +14,23 @@ Welcome to my data portfolio. I created this collection to demonstrate my founda
 
 ### 1. Excel Sales Dashboard  
 A small Excel project demonstrating data cleaning, pivot tables, and dashboard creation.  
-**Folder:** `/excel-project`
+[View Project](./excel-project/README.md)
 
 ### 2. Power BI Visualizations  
 Two PDF exports of Power BI dashboards created from cleaned datasets.  
-**Folder:** `/powerbi-project`
+[View Project](./powerbi-projects/README.md)
 
 ### 3. SQL Database Build & Queries  
 A SQL script containing table creation, inserts, views, sequences, indexes, and synonyms.  
-**Folder:** `/sql-project`
+[View Project](./sql-project/README.md)
 
 ### 4. Python Hangman Script  
 A simple Python game demonstrating basic logic, loops, and user interaction.  
-**Folder:** `/python-project`
+[View Project](./python-project/README.md)
 
 ---
 
 ## 📬 Contact
 If you’d like to connect or learn more about my work, feel free to reach out.
 
-**Email:** (your email here)  
-**GitHub:** (your GitHub link here)
-
+**Email:** dwf.jr96@gmail.com
