@@ -14,5 +14,5 @@ This project is a simple Hangman game written in Python. It demonstrates basic p
 - Printed final results  
 
 ## 📂 Files Included
-- `Hangman.py` – Python version of the hangman game (recommended file)
-- `HangmanCode.txt` – Original text version of the code (kept for reference)
+- [Hangman.py](./Hangman.py) – Python version of the hangman game (recommended file)
+- [HangmanCode.txt](./HangmanCode.txt) – Original text version of the code (kept for reference)
