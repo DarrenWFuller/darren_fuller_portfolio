@@ -13,4 +13,4 @@ This project demonstrates my ability to clean raw data, organize it into a usabl
 - Created a dashboard with charts to visualize trends  
 
 ## 📂 Files Included
-- `ExcelDashboard.xlsx` – Excel dashboard with cleaned data, pivot tables, and visuals
+- [ExcelDashboard.xlsx](./ExcelDashboard.xlsx) – Excel dashboard with cleaned data, pivot tables, and visuals
