@@ -16,4 +16,4 @@ This project demonstrates my ability to work with SQL beyond basic SELECT statem
 - Created a `SYNONYM` for simplified table access  
 
 ## 📂 Files Included
-- `DatabaseBuild.sql` – Full SQL script including table creation, inserts, constraints, views, sequences, indexes, and synonym
+- [DatabaseBuild.sql](./DatabaseBuild.sql) – Full SQL script including table creation, inserts, constraints, views, sequences, indexes, and synonym
