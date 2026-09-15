@@ -1,6 +1,6 @@
 # Darren Fuller – Data Portfolio
 
-Welcome to my data portfolio. I created this collection to demonstrate my foundational skills in Excel, Power BI, SQL, and Python as I transition into data and operations-focused roles. Each project highlights a different tool and showcases my ability to work with data, build visualizations, write queries, and solve problems.
+Welcome to my data portfolio. I created this collection to demonstrate my foundational skills in Excel, Power BI, SQL, and Python as I transition into data and tech roles. Each project highlights a different tool and showcases my ability to work with data, build visualizations, write queries, and solve problems.
 
 ## 🔧 Skills Demonstrated
 - Data cleaning and transformation  
